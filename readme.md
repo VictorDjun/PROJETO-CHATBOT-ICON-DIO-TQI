@@ -1,0 +1,17 @@
+# PROJETO CHATBOT-ICON DIO|TQI  
+## APRENDIZADO  
+- IMPLEMENTAÇÃO DE 2 OBJETOS ANIMADOS E SINCRONIZADOS;  
+- ANIMATION-DELAY;  
+- BORDER-BOX;  
+
+## MENTORIA  
+
+- GABRIELA PINHEIRO  
+
+## LINKS  
+
+- [DIO](https://www.dio.me/)  
+- [TQI](https://www.tqi.com.br/)  
+
+
+
